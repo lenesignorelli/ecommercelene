@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #404040;
+    color: white;
+    padding: 15px;
+}
+
+.titulo {
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.nome-usuario{
+    font-style: italic;
+}

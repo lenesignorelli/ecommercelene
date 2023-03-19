@@ -1,0 +1,23 @@
+.card-produto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    margin: 10px;
+}
+
+.produto-imagem {
+    width: 180px;
+    height: 180px;
+}
+.produto-descricao {
+    font-weight: bold;
+}
+
+button {
+    width: 150px;
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 5px;
+    margin: 10px 10px;
+}
